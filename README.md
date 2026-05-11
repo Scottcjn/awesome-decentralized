@@ -97,7 +97,7 @@
 * [Ticktack ☠](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
 * [Tox](https://tox.chat): Instant messaging application, without central servers. The system is distributed, peer-to-peer, and end-to-end encrypted.
 * [twtxt](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
-* [Vdo.Ninja](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
+* [Vdo.Ninja](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in; cutting-edge peer-to-peer forwarding technology that offers privacy and ultra-low latency.
 * [webcat ☠️](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text or files.
 * [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
 * [WireMin] (https://wiremin.org/): A decentralized social network. 100% free; no phone numbers or emails; no data collection; end-to-end encryption.
